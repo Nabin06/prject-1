@@ -1,2 +1,2 @@
-# prject-1
+# project-1
 simple scissor paper rock game
